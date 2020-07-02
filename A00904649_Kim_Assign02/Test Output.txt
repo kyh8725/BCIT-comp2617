@@ -1,0 +1,35 @@
+10 Roman numeral values will be input and converted into
+their equivalent Hindu - Arabic numeric values.
+
+Input Roman numeral # 1: I
+I = 1
+
+Input Roman numeral # 2: m
+M = 1000
+
+Input Roman numeral # 3: W
+W Error - last character was not valid!!!
+
+Input Roman numeral # 4: vIi
+VII = 7
+
+Input Roman numeral # 5: Iv
+IV = 4
+
+Input Roman numeral # 6: DM?XXX
+DM? Error - last character was not valid!!!
+
+Input Roman numeral # 7: mlxvi
+MLXVI = 1066
+
+Input Roman numeral # 8: MCMLIV
+MCMLIV = 1954
+
+Input Roman numeral # 9: MdMcMlMxMvMiM
+MDMCMLMXMVMIM = 6334
+
+Input Roman numeral # 10: MDMDCDCLCLXLXVXVIVIII
+MDMDCDCLCLXLXVXVIVIII = 2667
+
+THAT'S ALL FOLKS :)
+Press any key to continue...
